@@ -1,2 +1,2 @@
 # microsoftLearning
-Aprendendo e aperfeiçoando os conhecimento nos produtos Microsoft
+Aprendendo e aperfeiçoando conhecimentos nos produtos Microsoft
